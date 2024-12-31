@@ -10,7 +10,7 @@ The filesystem to this repository
 ```bash
 student_attendance
 ├── scripts
-│   ├── # cv, encoding and data scripts to run the python code
+│   ├── # cv, encoding and data scripts to run all of the python code for the project
 ├── cvzone
 │   ├── # template code from cvzone on the "Face Recognition with Real-Time Database" project 
 ├── sample_images
