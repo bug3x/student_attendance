@@ -1,0 +1,3 @@
+"scripts": {
+  "release": "semantic-release"
+}
